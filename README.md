@@ -42,3 +42,4 @@ This project shows how AI can:
 - Monitor and diagnose issues automatically
 - Perform proactive remediation
 - Offer intelligent insights for DevOps teams
+<img width="657" height="374" alt="image" src="https://github.com/user-attachments/assets/1bcbf7bd-6d8d-4a8b-a0aa-c04278fd0051" />
